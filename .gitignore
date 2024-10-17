@@ -9,3 +9,4 @@ gradle-app.setting
 .classpath
 app/.settings
 .settings
+app/bin
